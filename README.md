@@ -1,3 +1,3 @@
 # MiGrain-Store.github.io
 MiGrain Store Gaming
-untuk memenuhi tugas pemograman lanjut
+MiGrain Store is a website for micro, small and medium businesses in Purwakarta.
